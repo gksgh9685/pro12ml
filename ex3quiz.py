@@ -1,6 +1,3 @@
-
-ex3corr_quiz.py
-100%
 # 상관관계 문제)
 # https://github.com/pykwon/python 에 있는 Advertising.csv 파일을 읽어 tv,radio,newspaper 간의 상관관계를 파악하시오. 
 # 또한 sales와 관계를 알기 위해 sales에 상관 관계를 정렬한 후 TV, radio, newspaper에 대한 영향을 해석하시오.
@@ -48,4 +45,3 @@ sns.heatmap(co_re, annot=True)
 plt.title('광고비와 판매량의 상관관계')
 plt.show()
 plt.close()
-ex3corr_quiz.py 표시 중입니다.
